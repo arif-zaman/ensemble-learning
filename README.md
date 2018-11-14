@@ -1,2 +1,2 @@
-# ensemble-learning
+# Ensemble Learning
 Ensemble Learning in Basic Python
